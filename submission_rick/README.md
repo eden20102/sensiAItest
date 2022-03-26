@@ -1,3 +1,7 @@
+![Sensi Logo and Tagline](https://user-images.githubusercontent.com/44435512/160245386-7acfec1f-bb12-400a-b8d6-71d81b46ace4.png)
+
+
+
 #How folders are built
   
   #1-In the CSV folder is the first question in Python
