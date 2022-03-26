@@ -1,0 +1,9 @@
+FROM ubuntu
+
+RUN apt-get update && apt-get install git
+COPY ./git_ssh_key.pem ~/.ssh/id_rsa
+RUN --mount=type=ssh git clone git@github.com:
+RUN git checkout some_branch
+RUN git pull
+
+ENTRYPOINT /run/this/script/when/executed.py
