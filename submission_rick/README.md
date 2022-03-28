@@ -37,6 +37,11 @@ docker run app
 ![aws-ecs-fargate](https://user-images.githubusercontent.com/44435512/160479042-9145506b-81d2-4b9c-b090-05d8e4970097.png)
 
 #bonus question#
+The process
+
+*create ecr repository in aws*
+*Upload docker file to AWS ecr* 
+
 ```
   1) git clone for project
   2) Install terraform (sudo apt install terraform)
