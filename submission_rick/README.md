@@ -29,9 +29,18 @@ docker build -t app .
 docker run app
 ```
 
-![Uploading aws-ecs-fargate.png…]()
 
 
 
 
 
+![aws-ecs-fargate](https://user-images.githubusercontent.com/44435512/160479042-9145506b-81d2-4b9c-b090-05d8e4970097.png)
+
+#bonus question#
+```
+  1) git clone for project
+  2) Install terraform (sudo apt install terraform)
+  3) Enter the AWS Access Key ID AND secret Key Into a folder ["$HOME/.aws/credentials"] OR By command   "aws configure"
+  4) Enter command terraform init
+  5) Enter command terraform apply
+```
