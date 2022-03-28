@@ -28,7 +28,10 @@ cd docker/
 docker build -t app .
 docker run app
 ```
-https://devopslinux482023940.files.wordpress.com/2020/11/aws-ecs-fargate.png?w=640
+
+![Uploading aws-ecs-fargate.png…]()
+
+
 
 
 
